@@ -1,21 +1,29 @@
 # img
 
 #SumClassifier 是參數選擇&路徑輸入
-![GITHUB](Supervised-learning/SumClassifier.py "git圖示")
+[SumClassifie][]
 
 
 #resultPlot 是輸出圖表
-![GITHUB](https://github.com/jick155/pix2pix/blob/master/img/aoi-pix2.PNG?raw=true "git圖示")
 
+[resultPlot][]
 
 #classifierModel 是所有Model架構
-![GITHUB](https://github.com/jick155/pix2pix/blob/master/img/aoi-pix2.PNG?raw=true "git圖示")
 
+[classifierModel][]
 
 #imgGan 是所有生成圖片之方法
-![GITHUB](https://github.com/jick155/pix2pix/blob/master/img/aoi-pix2.PNG?raw=true "git圖示")
 
+[imgGan][]
 
 #dataSetIO  確認檔案&讀取檔案
-![GITHUB](https://github.com/jick155/pix2pix/blob/master/img/aoi-pix2.PNG?raw=true "git圖示")
 
+[dataSetIO][]
+
+
+
+[SumClassifie]: https://github.com/jick155/Supervised-learning/blob/master/SumClassifier.py
+[classifierModel]: https://github.com/jick155/Supervised-learning/blob/master/classifierModel.py
+[dataSetIO]: https://github.com/jick155/Supervised-learning/blob/master/dataSetIO.py
+[imgGan]: https://github.com/jick155/Supervised-learning/blob/master/imgGen.py
+[resultPlot]: https://github.com/jick155/Supervised-learning/blob/master/resultPlot.py
