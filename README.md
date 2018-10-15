@@ -1,4 +1,4 @@
-# img
+# CODE 大致說明
 
 #SumClassifier 是參數選擇&路徑輸入
 [SumClassifie][]
