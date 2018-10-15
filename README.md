@@ -9,6 +9,7 @@
 [resultPlot][]
 
 #classifierModel 是所有Model架構
+其中firstone為aoi影像辨識的主架構
 
 [classifierModel][]
 
